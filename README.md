@@ -1,2 +1,2 @@
-# rxjs-train
-RxJS - Studying Reactive Programming for JS
+# Studying Reactive Programming based on RxJS
+
