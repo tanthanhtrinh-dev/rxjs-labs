@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-train",
+  "version": "1.0.0",
+  "description": "Studying Reactive Programming based on RxJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanthanhtrinh-dev/rxjs-train.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanthanhtrinh-dev/rxjs-train/issues"
+  },
+  "homepage": "https://github.com/tanthanhtrinh-dev/rxjs-train#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
