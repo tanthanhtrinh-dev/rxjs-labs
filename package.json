@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanthanhtrinh-dev/rxjs-train.git"
+    "url": "git+https://github.com/tanthanhtrinh-dev/rxjs-labs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tanthanhtrinh-dev/rxjs-train/issues"
+    "url": "https://github.com/tanthanhtrinh-dev/rxjs-labs/issues"
   },
-  "homepage": "https://github.com/tanthanhtrinh-dev/rxjs-train#readme",
+  "homepage": "https://github.com/tanthanhtrinh-dev/rxjs-labs#readme",
   "devDependencies": {
     "@webpack-cli/generators": "^3.0.0",
     "html-webpack-plugin": "^5.5.0",
