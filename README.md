@@ -9,8 +9,13 @@ npm run build
 
 or
 
-```
+```shell
 yarn build
+```
+
+**For Learning**
+```shell
+yarn serve
 ```
 
 to bundle your application
